@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/valentingorce?label=Follow&style=social)](https://github.com/valentingorce)
-[![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/valentin-gorce-69887015b)
+[![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/valentin-gorce-69887015b)
 
 I'm a ML Engineer passionate about Machine Learning and Software Engineering. I am into LLMs and Diffusion models at the moment.
 
